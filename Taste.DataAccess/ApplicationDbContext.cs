@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using Taste.Models;
 
 namespace Taste.DataAccess
 {
@@ -10,7 +11,10 @@ namespace Taste.DataAccess
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
-        {
-        }
+        {   }
+        
+        
+            public DbSet<Category> Category { get; set; } 
+        
     }
 }

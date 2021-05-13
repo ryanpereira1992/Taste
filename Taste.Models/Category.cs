@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Taste.Models
 {
-    class Category
+    public class Category
     {
         [Key]
         public int Id { get; set; }

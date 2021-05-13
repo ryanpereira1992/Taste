@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taste", "Taste\Taste.csproj", "{A57B28C3-F957-4FD5-B401-EBA7DFF7C7B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taste.DataAccess", "Taste.DataAccess\Taste.DataAccess.csproj", "{2A18454D-5433-4052-8AA3-7ADC60180816}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taste.DataAccess", "Taste.DataAccess\Taste.DataAccess.csproj", "{2A18454D-5433-4052-8AA3-7ADC60180816}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taste.Models", "Taste.Models\Taste.Models.csproj", "{842825D4-8297-4B76-90AC-71BC0400E262}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taste.Models", "Taste.Models\Taste.Models.csproj", "{842825D4-8297-4B76-90AC-71BC0400E262}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taste.Utility", "Taste.Utility\Taste.Utility.csproj", "{004CCE23-EC42-4629-BDD6-63C79E65C797}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taste.Utility", "Taste.Utility\Taste.Utility.csproj", "{004CCE23-EC42-4629-BDD6-63C79E65C797}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
